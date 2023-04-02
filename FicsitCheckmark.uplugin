@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "FICSIT Checkmark for Verified Pioneers",
+	"Description": "This prestigious mark is reserved for only the truly exceptional Pioneers.",
+	"Category": "Modding",
+	"CreatedBy": "Robb",
+	"CreatedByURL": "https://github.com/budak7273/FicsitCheckmark",
+	"DocsURL": "https://www.youtube.com/watch?v=9GjKn5KyAd0",
+	"MarketplaceURL": "",
+	"SupportURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.4.1",
+			"Enabled": true
+		}
+	]
+}
